@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Live MQTT IMU Visualizer & Background Video Exporter
 
 A high-performance **PyQt5** desktop application that subscribes to real-time IMU telemetry over **MQTT**, visualizes orientation in an interactive **OpenGL 3D environment**, logs telemetry sessions to **SQLite**, and exports recorded sessions as **MP4 videos** using **OpenCV**—all while keeping the user interface responsive through background worker threads.
@@ -228,4 +227,3 @@ The recording is rendered into an MP4 file while the application remains fully r
 This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this software for personal, academic, and commercial robotics applications.
-````
